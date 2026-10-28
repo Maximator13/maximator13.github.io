@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://maximator13.github.io/roma/sitemap.xml
 Sitemap: https://maximator13.github.io/hellas/sitemap.xml
+Sitemap: https://maximator13.github.io/france/sitemap.xml
